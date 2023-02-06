@@ -1,2 +1,3 @@
 # tatum-sdk-error-mesages
-Common error message for SDK
+
+Common error message for Tatum SDK
